@@ -35,6 +35,7 @@ theta7 = thetalist(1,end);
 
 
 
+
 function T = EXP(theta, s)
 T = eye(4);
 for k = 1:7
